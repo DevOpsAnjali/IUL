@@ -272,7 +272,7 @@ table{
   }
   p{
     text-align: justify center;
-    font-size: 10px;
+    font-size: 8px;
     padding-right: 30px;
     padding-left: 30px;
  }
@@ -294,11 +294,11 @@ table{
     font-size: 8px;
   }
   .about{
-    font-size: 6px;
+    font-size: 8px;
     padding-top: 0%;
   }
   .cell{
-    font-size: 8px;
+    font-size: 6px;
     padding-top: 2%;
     padding-bottom: 1%;
     padding-left: 0%;
@@ -314,7 +314,7 @@ table{
   .dev{
     text-decoration: none;
     text-align: right;
-    padding-left: 50%;
+    padding-left: 40%;
     padding-right: 0%;
     font-size: 5px;
   }
@@ -334,7 +334,7 @@ table{
     text-align: center;
   }
   .department{
-    font-size: 12px;
+    font-size: 10px;
     color: #533468;
     padding-left: 10%;
   }
