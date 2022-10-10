@@ -226,7 +226,7 @@ table{
     text-decoration: none;
     padding:0%;
     font-weight: 600;
-    font-size: 15px;
+    font-size: 12px;
     color: #555; 
     flex-direction: column;
   }
@@ -259,7 +259,7 @@ table{
    section:nth-child(even){
     background-color: #ececec;
     padding-top: 0px;
-    padding-bottom: 20px;
+    padding-bottom: 10px;
   }
   .carousel-cell {
     width: 50%;
@@ -271,10 +271,10 @@ table{
     padding-left: 5px;
   }
   p{
-    text-align: center;
-    font-size: 8px;
-    padding-right: 40px;
-    padding-left: 40px;
+    text-align: justify center;
+    font-size: 10px;
+    padding-right: 30px;
+    padding-left: 30px;
  }
   .library{
     padding-left: 2px;
@@ -298,9 +298,12 @@ table{
     padding-top: 0%;
   }
   .cell{
-    font-size: 5px;
-    padding-left: 10px;
-    padding-right: 10px;
+    font-size: 8px;
+    padding-top: 2%;
+    padding-bottom: 1%;
+    padding-left: 0%;
+    padding-right: 0%;
+    
   }
   .copy{
     text-decoration: none;
@@ -311,7 +314,7 @@ table{
   .dev{
     text-decoration: none;
     text-align: right;
-    padding-left: 40%;
+    padding-left: 50%;
     padding-right: 0%;
     font-size: 5px;
   }
@@ -324,28 +327,29 @@ table{
     font-size: 10px;
   }
   .bca{
-    font-size: 15px;
+    font-size: 20px;
     color: #533468;
     padding-left: 0%;
+    padding-top: 5%;
     text-align: center;
   }
   .department{
-    font-size: 8px;
+    font-size: 12px;
     color: #533468;
     padding-left: 10%;
   }
   .program{
-    font-size: 5px;
+    font-size: 8px;
     text-align: justify;
     padding-left: 10%;
     padding-right: 10%;
   }
   .list{
-    font-size: 5px;
+    font-size: 8px;
     text-align: justify;
     padding-left: 10%;
     padding-right: 10%;
-    list-style: circle;
+    list-style: none;
   }
  
 }
